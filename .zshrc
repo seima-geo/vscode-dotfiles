@@ -8,6 +8,8 @@ export ZSH="$HOME/.oh-my-zsh"
 # load a random theme each time Oh My Zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
+export LC_ALL=C.UTF-8
+export LANG=C.UTF-8
 ZSH_THEME="agnoster"
 
 
